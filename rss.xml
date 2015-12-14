@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Bitbone]]></title>
         <description><![CDATA[Bitbone]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bitbone/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 06:35:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 06:40:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bitbone/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72c78b4c-8161-444b-8f70-1bb496301153.png">]]></description>
-            <link>undefined1bf443fc-cdb7-454a-a5e6-62dbda52492f/index.html</link>
+            <link>https://thegrid.ai/bitbone/1bf443fc-cdb7-454a-a5e6-62dbda52492f/index.html</link>
             <guid isPermaLink="false">1bf443fc-cdb7-454a-a5e6-62dbda52492f</guid>
-            <pubDate>Mon, 14 Dec 2015 06:35:00 GMT</pubDate>
+            <pubDate>Mon, 14 Dec 2015 06:40:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
