@@ -1,7 +1,7 @@
 name: Bitbone
 favicon: null
-layout_spectrum: 0.47431938722729683
-typography_spectrum: 0.07600037986412644
+layout_spectrum: 0.22724
+typography_spectrum: 0.19786
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6750347965862602
-  lightness: 0.9096040616277605
-  saturation: 0.15688850497826934
-  rhythmicContrast: 0.841652899980545
+    - '#000000'
+    - '#363c42'
+    - '#a98c19'
+    - '#f3f3f3'
+    - '#2788ae'
+  brandStrength: 0.5625
+  lightness: 0.625
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
